@@ -1,0 +1,25 @@
+ # Prompts for Series 1: Introduction to AI
+
+## Scene 1: Introduction to AI Learning
+"A futuristic lab with glowing holographic AI models floating in mid-air. A friendly AI assistant, resembling a robot with a sleek and minimalistic design, appears in the center. Text overlay: 'How AI Learns: Understanding Machine Learning & Deep Learning.' The background is a high-tech setting with screens displaying AI code and data."
+
+## Scene 2: What is Machine Learning?
+"An animation of a computer on a desk, looking at images of cats and dogs. The computer screen shows images being categorized, with errors being corrected over time. A progress bar below the screen visualizes the computer's learning process. The setting is bright and modern."
+
+## Scene 3: Types of Machine Learning
+1. **Supervised Learning**: "An AI assistant categorizing images into categories labeled 'Cat' and 'Dog.' The assistant's interface is colorful, with labels popping up as it learns."
+2. **Unsupervised Learning**: "AI interface clustering data points on a digital grid. No labels are present; only clusters of similar images are grouped together."
+3. **Reinforcement Learning**: "An animated AI character playing a video game, making choices to move forward or avoid obstacles. The character gets a reward for correct moves, shown as a 'score' increasing on the screen."
+
+## Scene 4: Introduction to Deep Learning
+"A visual comparison of a human brain neuron and an AI neural network node, both glowing with energy. The neural network is displayed with interconnected layers, each layer lighting up as data flows through it. The background has a digital, futuristic theme with moving data streams."
+
+## Scene 5: How a Neural Network Learns
+"Animation of a neural network with multiple layers processing handwritten digits. The nodes change color as the network learns. A graph beside the network shows accuracy improving over time."
+
+## Scene 6: Simple Example - AI Learning in Action
+"A cute AI robot scanning images of apples and oranges. The robot makes errors at first, showing confused expressions, but gradually improves as it learns. A timeline graph at the bottom shows learning progression."
+
+## Scene 7: The Future of AI Learning
+"A futuristic cityscape with advanced AI technologies visible everywhere—like flying cars, AI doctors, and intelligent robots. The scene should be vibrant and optimistic, highlighting AI’s potential in various fields. Text overlay: 'The journey of AI learning has only just begun.'"
+
